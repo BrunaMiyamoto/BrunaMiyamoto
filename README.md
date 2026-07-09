@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, eu sou a Bruna! 
 
-<!--
-**BrunaMiyamoto/BrunaMiyamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Bacharelado em TI e Técnica em Informática para Internet. Estou em transição de carreira, unindo minha experiência anterior em atendimento e processos com o desenvolvimento de soluções web.
 
-Here are some ideas to get you started:
+ Tecnologias:
+- **Back-end:** PHP (foco em POO e frameworks como Laravel), C# (estudos introdutórios).
+- **Front-end:** JavaScript, HTML5, CSS3, Tailwind CSS.
+- **Conceitos:** Consumo e desenvolvimento de APIs, Modelagem de dados, Versionamento com Git.
+- **Ferramentas:** VS Code, XAMPP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Um pouco sobre mim:
+- Gosto de resolver problemas e aprender novas tecnologias.
+- Minha bagagem em Relações Públicas me dá uma visão diferenciada sobre a comunicação e a experiência do usuário.
+- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/brunayk-miyamoto) ou pelo e-mail: brumiyamoto00@gmail.com
